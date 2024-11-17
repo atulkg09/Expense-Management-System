@@ -1,7 +1,16 @@
 # Expense Management System
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.
+An interactive web-based application built with Streamlit to manage, track, and analyze personal or business expenses. This project allows users to add, update, and view analytics on their expenses, making financial tracking simpler and more organized.
+Features:
+Add and Update Expenses: Record daily expenses with details such as date, category, and amount.
+Analytics and Visualizations: View insights and trends on your spending patterns.
+User-Friendly Interface: Built with Streamlit for easy navigation and quick interactions.
 
+Prerequisites
+
+- Python 3.7 or higher. 
+- pip` package manager
 
 ## Project Structure
 
